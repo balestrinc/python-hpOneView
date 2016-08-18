@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/HewlettPackard/python-hpOneView.svg?branch=master)](https://travis-ci.org/HewlettPackard/python-hpOneView)
+[![Build Status](https://travis-ci.org/balestrinc/python-hpOneView.svg?branch=master)](https://travis-ci.org/balestrinc/python-hpOneView)
 
 HPE OneView SDK for Python
 ===========================
